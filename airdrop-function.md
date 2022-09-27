@@ -3,6 +3,7 @@
 1. 调用 userFLashCLiamRegisteryV3 createReceiver() 方法 部署用户的空投receiver 合约,
 
 2. 部署后的receiver 可以通过后端接口查询到
+    `airdrop/receiver-address/{address}`
 
 3. 获取到一种NFT 的bNFT 地址, bNFT的合约地址, 和用的当前持有此BNFT 的数量
 
